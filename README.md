@@ -1,3 +1,3 @@
-# Git and Github Course
+# Git and Github Test
 
-Crash Course for Git
+Testing GIT from terminal 
